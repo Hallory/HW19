@@ -1,0 +1,25 @@
+.home_container{
+    border: 1px solid #e6e2e2;
+  padding: 10px; 
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: inherit;
+  margin: 10px;
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+  max-width: 300px; 
+  max-height: 400px;
+}
+.home_container:hover{
+    transform: translateY(-5px);
+}
+.image{
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.text{
+    margin-top: 5px;
+    color: #c4c1c1;
+}

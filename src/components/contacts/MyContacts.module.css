@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    width: inherit;
+    justify-content: center;
+    
+}
+.container:first-child{
+    margin-top: 20px;
+}
+.user__container{
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    width: 200px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(192, 190, 190, 0.2);
+}
