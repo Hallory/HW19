@@ -1,5 +1,4 @@
 import React from 'react';
-import { useState } from 'react';
 import MyContacts from '../../components/contacts/MyContacts';
 import module from './Contacts.module.css'
 const Contacts = ({toggleModal, contacts}) => {
