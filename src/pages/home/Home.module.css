@@ -1,7 +1,8 @@
 .home_container {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    height: 100vh;
-  }
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  height: 100vh;
+
+}
   
